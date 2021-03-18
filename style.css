@@ -1,0 +1,49 @@
+.button-edit{
+    text-align: center;
+    margin: 3rem auto;
+    display: block;
+    padding: 0.7rem 4rem;
+    background-image: linear-gradient(to right,rgb(236, 130, 148) , rgb(192, 11, 116));
+    border: none;
+    border-radius: 25px;
+    -webkit-border-radius: 25px;
+    -moz-border-radius: 25px;
+    -ms-border-radius: 25px;
+    -o-border-radius: 25px;
+    color: white;
+    font-size: larger;
+    font-weight: 600;
+}
+#heading1{
+    font-size: 45px;
+    width: 60%;
+    margin: 2rem auto;
+    display: block;
+    color: rgb(6, 6, 22);
+    margin-top: 6rem;
+    text-align: center;
+    font-weight: 500;
+}
+.navbar-brand{
+    font-family: 'Chango', cursive;
+    font-family: 'Roboto', sans-serif;
+    font-weight: bold;
+}
+ul{
+    margin-left: 20rem;
+}
+#number{
+    font-weight: bolder;
+    border-radius: 20px;
+    -webkit-border-radius: 20px;
+    -moz-border-radius: 20px;
+    -ms-border-radius: 20px;
+    -o-border-radius: 20px;
+}
+.nav-link{
+    font-size: large;
+    font-weight: 500;
+}
+li{
+    padding: 1rem;
+}
